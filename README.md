@@ -1,4 +1,4 @@
-### Godot Gravity Aligned Character
+### [Godot Gravity Aligned Character](https://git.leonardmeagher2.com/godot-gravity-aligned-character)
 
 This demo is of a kinematic character that is aligned to gravity and can walk on a curved surface.  
 This is based on a prototype I worked on.
